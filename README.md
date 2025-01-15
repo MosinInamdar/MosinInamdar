@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosininamdar&label=Profile%20views&color=0e75b6&style=flat" alt="mosininamdar" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Django**
+- 🌱 I’m currently learning **Microsoft Azure, TypeORM**
 
 - 📫 How to reach me **mosininamdar18@gmail.com**
 
